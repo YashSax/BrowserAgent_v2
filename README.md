@@ -1,0 +1,1 @@
+Note: This works on certain tasks like "What is the IMDb rating of Jurassic Park?" but can sometimes not work on other tasks like "How much does a basketball cost on Amazon", even though they both theoretically should be able to be completed with the same set of tools. This is because of the browser agent's struggle with associating html inputs with UI elements.
